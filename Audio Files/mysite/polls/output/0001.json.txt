@@ -1,0 +1,17 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.89, 
+                    "transcript": "several tornadoes touch down as a line of severe thunderstorms swept through Colorado on Sunday "
+                }
+            ], 
+            "final": true
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}

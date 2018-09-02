@@ -1,0 +1,17 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.968, 
+                    "transcript": "with one of the twisters hitting near a junior golf tournament "
+                }
+            ], 
+            "final": true
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}

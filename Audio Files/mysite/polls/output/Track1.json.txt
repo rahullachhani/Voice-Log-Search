@@ -1,0 +1,44 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.891, 
+                    "transcript": "Cambridge preparation for the TOEFL test fourth edition bye Jolene gear and Robert gear "
+                }
+            ], 
+            "final": true
+        }, 
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.982, 
+                    "transcript": "this audio program contains recordings that correspond to Cambridge preparation for the TOEFL test fourth edition published by Cambridge University Press "
+                }
+            ], 
+            "final": true
+        }, 
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.998, 
+                    "transcript": "this recording is copyrighted "
+                }
+            ], 
+            "final": true
+        }, 
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.825, 
+                    "transcript": "C. D. one "
+                }
+            ], 
+            "final": true
+        }
+    ], 
+    "warnings": [
+        "Unknown arguments: continuous."
+    ]
+}

@@ -1,0 +1,3 @@
+Word Cambridge not found in 0001.json.txtTranscript
+Word Cambridge not found in 0002.json.txtTranscript
+Word Cambridge found in Track1.json.txtTranscript
